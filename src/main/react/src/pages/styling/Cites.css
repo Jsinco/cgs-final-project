@@ -1,0 +1,15 @@
+.kotlinLogo {
+    height: 15em;
+    padding: 1.5em;
+    will-change: filter;
+    transition: filter 300ms;
+    filter: drop-shadow(0 0 2em rgba(115, 100, 255, 0.67));
+}
+
+.hccLogo {
+    height: 28em;
+    padding: 1.5em;
+    will-change: filter;
+    transition: filter 300ms;
+    filter: drop-shadow(0 0 2em rgba(83, 103, 239, 0.67));
+}
